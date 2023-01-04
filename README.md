@@ -1,7 +1,6 @@
 # MacroLord
 
-Bot v0.1
--Bluestacks \
+Bot v0.1 - Bluestacks \
 -Conexion ADB \
 -SQLite \
 -Cursores \
