@@ -1,10 +1,11 @@
 # MacroLord
 
 Bot v0.1
--Conexion ADB n\
--SQLite n\
--Cursores n\
--OpenCV n\
--Automatización n\
--Control de recursos n\
+-Bluestacks \
+-Conexion ADB \
+-SQLite \
+-Cursores \
+-OpenCV \
+-Automatización \
+-Control de recursos \
 -Control de comandos
