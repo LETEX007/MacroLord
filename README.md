@@ -7,4 +7,5 @@ Bot v0.1 - Bluestacks \
 -OpenCV \
 -Automatización \
 -Control de recursos \
--Control de comandos
+-Control de comandos \
+-Control de errores
