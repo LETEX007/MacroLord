@@ -1,5 +1,5 @@
 # MacroLord
-
+-Codigo comentado-
 Bot v0.1 - Bluestacks \
 -Conexion ADB \
 -SQLite \
